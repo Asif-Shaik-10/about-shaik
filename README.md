@@ -5,7 +5,7 @@
 A professional portfolio website for **Shaik Mohammed Asif**, showcasing skills, projects, and professional background. Built with modern web technologies to ensure a responsive, accessible, and visually appealing experience.
 
 ## 🚀 Live Demo
-[Link to deployed site will go here]
+https://asif-shaik-10.github.io/about-shaik/
 
 ## 🛠️ Tech Stack
 - **Frontend Framework**: React (Vite)
